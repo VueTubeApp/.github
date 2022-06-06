@@ -6,7 +6,7 @@
 </p>
 
 ## Video Watching, Supercharged⚡
-This is the home to the VueTube Project, an open source application to improve your video watching expereince. Here, you will find everything we are working on.
+This is the home to the VueTube Project, an open source application to improve your video watching experience. Here, you will find everything we are working on.
 
 #### Blazing fast
 With an optimized, simple, and easy to use UI, you'll find that using VueTube feels right at home.
