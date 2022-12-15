@@ -2,17 +2,16 @@
   <a href="https://vuetube.app/">
     <picture>
       <source 
-        srcset="../readme_assets/dark/VueTube Dark.dark.svg"
+        srcset="../readme_assets/dark/VueTube.svg"
         media="(prefers-color-scheme: dark)"
       />
-      <source
-        srcset="../readme_assets/light/VueTube Dark.svg"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="../readme_assets/light/VueTube Dark.svg" alt="VueTube icon" width="800" alt="VueTube"/>
+      <img 
+        src="../readme_assets/light/VueTube.svg" 
+        alt="VueTube icon"
+        width="800"
+       />
     </picture>
   </a>
-  </br>
 </p>
 
 ## Video Watching, Supercharged⚡
