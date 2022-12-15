@@ -1,6 +1,16 @@
 <p align="center">
   <a href="https://vuetube.app/">
-    <img src="https://cdn.discordapp.com/attachments/751596360108605500/980418672331988992/VueTube_Dark.svg" alt="VueTube icon" width="800"/>
+    <picture>
+      <source 
+        srcset="../readme_assets/dark/VueTube Dark.dark.svg"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="../readme_assets/light/VueTube Dark.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="../readme_assets/light/VueTube Dark.svg" alt="VueTube icon" width="800" alt="VueTube"/>
+    </picture>
   </a>
   </br>
 </p>
@@ -18,10 +28,10 @@ Built on top of Vue and licensed under the GPL-3.0, VueTube is free and open sou
 SponsorBlock? Return YouTube dislikes? AdBlock? Background play? We've got it all.
 
 ### Connect with us!
-  <a href="https://vuetube.app/discord"><img src="https://cdn.discordapp.com/attachments/751596360108605500/980429224789827594/Discord.svg" height=50/></a>
-  <a href="https://reddit.com/r/vuetube"><img src="https://cdn.discordapp.com/attachments/751596360108605500/980429225012121610/Reddit.svg" height=50/></a>
-  <a href="https://t.me/vuetube"><img src="https://cdn.discordapp.com/attachments/751596360108605500/980430242210545715/Telegram.svg" height=50/></a>
-  <a href="https://twitter.com/VueTubeApp"><img src="https://cdn.discordapp.com/attachments/751596360108605500/980429225427365978/Twitter.svg" height=50/></a>
+  <a href="https://vuetube.app/discord"><img src="../readme_assets/socials/Discord.svg" height=50 alt="Join our Discord server"/></a>
+  <a href="https://reddit.com/r/vuetube"><img src="../readme_assets/socials/Reddit.svg" height=50 alt="Join the Subreddit"/></a>
+  <a href="https://t.me/vuetube"><img src="../readme_assets/socials/Telegram.svg" height=50 alt="Subscribe on Telegram for updates"/></a>
+  <a href="https://twitter.com/VueTubeApp"><img src="../readme_assets/socials/Twitter.svg" height=50 alt="Tweet @us on Twitter"/></a>
   
 ## Disclaimer
 
