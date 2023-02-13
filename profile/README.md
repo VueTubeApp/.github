@@ -31,7 +31,6 @@ SponsorBlock? Return YouTube dislikes? AdBlock? Background play? We've got it al
   <a href="https://reddit.com/r/vuetube"><img src="https://raw.githubusercontent.com/VueTubeApp/.github/main/readme_assets/socials/Reddit.svg" height=50 alt="Join the Subreddit"/></a>
   <a href="https://t.me/vuetube"><img src="https://raw.githubusercontent.com/VueTubeApp/.github/main/readme_assets/socials/Telegram.svg" height=50 alt="Subscribe on Telegram for updates"/></a>
   <a href="https://twitter.com/VueTubeApp"><img src="https://raw.githubusercontent.com/VueTubeApp/.github/main/readme_assets/socials/Twitter.svg" height=50 alt="Tweet @us on Twitter"/></a>
-  <a href="https://youtube.com/VueTubeApp"><img src="https://raw.githubusercontent.com/VueTubeApp/.github/main/readme_assets/socials/YouTube.svg" height=50 alt="Subscribe to our channel"/></a>
   <a href="[https://vuetube.app/](https://youtube.com/VueTubeApp)">
     <picture>
       <source 
