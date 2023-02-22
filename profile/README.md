@@ -26,6 +26,21 @@ Built on top of Vue and licensed under the GPL-3.0, VueTube is free and open sou
 #### Additional plugins and extensions
 SponsorBlock? Return YouTube dislikes? AdBlock? Background play? We've got it all.
 
+### Friends
+<a href="https://vuetube.app/">
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/revanced/revanced-branding/main/assets/revanced-headline/revanced-headline-horizontal-dark.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://raw.githubusercontent.com/revanced/revanced-branding/main/assets/revanced-headline/revanced-headline-horizontal-light.svg" 
+      alt="VueTube icon"
+      height="40"
+     />
+  </picture>
+</a>
+
 ### Connect with us!
   <a href="https://vuetube.app/discord"><img src="https://raw.githubusercontent.com/VueTubeApp/.github/main/readme_assets/socials/Discord.svg" height=50 alt="Join our Discord server"/></a>
   <a href="https://reddit.com/r/vuetube"><img src="https://raw.githubusercontent.com/VueTubeApp/.github/main/readme_assets/socials/Reddit.svg" height=50 alt="Join the Subreddit"/></a>
