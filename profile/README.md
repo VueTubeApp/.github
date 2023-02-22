@@ -27,7 +27,7 @@ Built on top of Vue and licensed under the GPL-3.0, VueTube is free and open sou
 SponsorBlock? Return YouTube dislikes? AdBlock? Background play? We've got it all.
 
 ### Friends
-<a href="https://vuetube.app/">
+<a href="https://revanced.app/">
   <picture>
     <source 
       srcset="https://raw.githubusercontent.com/revanced/revanced-branding/main/assets/revanced-headline/revanced-headline-horizontal-dark.svg"
