@@ -35,7 +35,7 @@ SponsorBlock? Return YouTube dislikes? AdBlock? Background play? We've got it al
     />
     <img 
       src="https://raw.githubusercontent.com/revanced/revanced-branding/main/assets/revanced-headline/revanced-headline-horizontal-light.svg" 
-      alt="VueTube icon"
+      alt="Revanced icon"
       height="40"
      />
   </picture>
