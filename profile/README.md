@@ -40,6 +40,14 @@ SponsorBlock? Return YouTube dislikes? AdBlock? Background play? We've got it al
      />
   </picture>
 </a>
+<br/>
+<a href="https://github.com/zt64/Hyperion">
+  <img 
+    src="https://github.com/VueTubeApp/.github/assets/31113245/8b95f28b-1118-4d93-a17a-602c5cb07c7e" 
+    alt="Hyperion"
+    height="50"
+   />
+</a>
 
 ### Connect with us!
   <a href="https://vuetube.app/discord"><img src="https://raw.githubusercontent.com/VueTubeApp/.github/main/readme_assets/socials/Discord.svg" height=50 alt="Join our Discord server"/></a>
